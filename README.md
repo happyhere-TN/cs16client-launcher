@@ -4,7 +4,7 @@ cs16client launcher for xash3d new engine windows version
 
 --**how to use_**
 
-install the cs16client launcher from reless and copy it to half-life folder (where u pat the xash3D.exe)
+install the cs16client launcher from [relesses](https://github.com/happyhere-TN/cs16client-launcher/releases) and copy it to half-life folder (where u pat the xash3D.exe)
 
 
 --**how to install xash3d new engine on windows**
